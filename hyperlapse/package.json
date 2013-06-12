@@ -1,0 +1,18 @@
+{
+	"name": "hyperlapsenode",
+	"author": "browniefed",
+	"description": "Hyperlapse.js in Node",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/browniefed/Hyperlapse.js.git"
+	},
+	"version": "0.0.1",
+	"main" : "./lib/main",
+	"bin": {
+		"hyperlapse": "./bin/hyperlapse"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"chai": "*"
+	}
+}
